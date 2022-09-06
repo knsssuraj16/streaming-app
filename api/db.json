@@ -1,32 +1,10 @@
 {
   "streams": [
     {
-      "title": "my stream ",
-      "description": "this is a greate streram",
-      "id": 3
-    },
-    {
-      "title": "I create this stream ",
-      "description": "this will be patch request",
-      "userId": "105244030687846577421",
-      "id": 4
-    },
-    {
-      "title": "This is the testing of programmatic Navigation",
-      "description": "description as yousa",
-      "id": 5
-    },
-    {
-      "title": "Watch me refactor",
-      "description": "I am going to refactor",
-      "userId": "105244030687846577421",
-      "id": 6
-    },
-    {
-      "title": "delte",
-      "description": "lkdjfaljfasd",
+      "title": "This is the first stream",
+      "description": "What about you",
       "userId": "108132389540200890258",
-      "id": 7
+      "id": 1
     }
   ]
 }
