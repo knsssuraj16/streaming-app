@@ -43,10 +43,10 @@ class StreamShow extends Component {
     }
     const { title, description } = this.props.stream;
     return (
-      <div>
+      <div style={{ display: "flex", flexDirection: "column" }}>
         <video style={{ width: "100%" }} controls ref={this.videoRef}></video>
-        <h1>{title}</h1>
-        <h5>{description}</h5>
+        <h1 style={{ display: "block" }}>{title}</h1>
+        <h5 style={{ display: "block" }}>{description}</h5>
       </div>
     );
   }
